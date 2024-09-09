@@ -1,4 +1,6 @@
-﻿namespace CodeJam4
+// looks great, very interesting project
+
+namespace CodeJam4
 {
     internal class Program
     {
